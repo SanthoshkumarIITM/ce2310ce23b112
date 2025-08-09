@@ -1,0 +1,19 @@
+# Node
+node_modules/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Env
+.env
+.env.local
+
+# Build artifacts
+/dist
+/build
+
+# OS
+.DS_Store
